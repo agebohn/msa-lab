@@ -2,7 +2,7 @@
 
 ## Architecture Overview
 
-![dsfdsfsdfsdf](https://saltware-aws-lab.s3.ap-northeast-2.amazonaws.com/msa/img/msa-101-architecture.png)
+![dsfdsfsdfsdf](D819A869-131B-434C-9FFF-7BA64E171B49.png)
 
 ## 시작하기전에
 
